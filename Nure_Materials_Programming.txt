@@ -1,0 +1,71 @@
+01 Вступ 26'
+https://drive.google.com/file/d/1WMECLFLbUieezCBpWq7RNDVhF3w6Q1fs/view?usp=sharing
+02 Мови програмування 24'
+https://drive.google.com/file/d/1gqA0GA_te7_DMn-AAWSykJNDLfVrdZm_/view?usp=sharing
+03 Мова JavaScript 34'
+https://drive.google.com/file/d/1aSooPR6nfV6TlQHb5IWjGqLomNdQLaB3/view?usp=sharing
+04 Команда присвоювання 31'
+https://drive.google.com/file/d/1FH_rQiGPQcddKbX_fSMwjxp3_xMbj0gr/view?usp=sharing
+Лекція 3
+05 Умовна команда 44'
+https://drive.google.com/file/d/17Vd1u_KLZZ-VOP3VyLG3JipjLvElIPlf/view?usp=sharing
+06 Блок команд 33'
+https://drive.google.com/file/d/19ZqeKnIUTf7IUhbQB4AT9xqbqVCitTuc/view?usp=sharing
+Лекція 4
+07 Команда повторення 40'
+https://drive.google.com/file/d/1rAEo5sfwlPo-QVycV3cQPh06MHBQReHZ/view?usp=sharing
+08 Найбільший спільний дільник -27'
+https://drive.google.com/file/d/1xnpMDgy28jc4qYYsaXJ-IDZJEi0r3Sdj/view?usp=sharing
+Лекція 5
+09 Функції 33'
+https://drive.google.com/file/d/12QZNEZvkq56zelaVpThncUbuJsFmaaMB/view?usp=sharing
+10 Ще про функції 43'
+https://drive.google.com/file/d/1AbCXSQsI0M-apoUd9h5zGPfWEOPkMqMK/view?usp=sharing
+
+#################
+Лекція 6
+11 Масиви 38'
+https://drive.google.com/file/d/1axw7Nb-bljwjRLN6tX89sMUO0vqOGtj2/view?usp=sharing
+12 Цикл for 19'
+https://drive.google.com/file/d/1AbtghZ99iRh8ZotftojbVkQvgHEd5-kB/view?usp=sharing
+13 Методи масивів 26'
+https://drive.google.com/file/d/1zff2eDRTj5UoqfZo3QVAbSF7_ZmbkBSO/view?usp=sharing
+Лекція 7
+14 Багатовимірні масиви 17'
+https://drive.google.com/file/d/1iIULxMznkbQfGCasgyYApRku69qJHUWR/view?usp=sharing
+15 Рядки 44'
+https://drive.google.com/file/d/1bgZcJZ18thfpKd3aBDhCktOXLJCBe-Zi/view?usp=share_link
+16 Методи рядків 27'
+https://drive.google.com/file/d/12D9JofQb6pE7kHkg7DHYw6I6tP3SLYFV/view?usp=share_link
+Лекція 8
+17 Логічні значення 27'
+https://drive.google.com/file/d/1UL6EwrpyvtSJmil-nIqxkogmqzAD7kfl/view?usp=sharing
+17 Логічні значення(закінчення) 21'
+https://drive.google.com/file/d/1ctNkAGYkWYqqvXi003aDhDA-6E2aHcLg/view?usp=share_link
+18 Типи даних 30'
+https://drive.google.com/file/d/1V6RtDUNWAizcetPO1xZ9ZFxV3NEVMqei/view?usp=share_link
+Лекція 9
+19 Об'єкти  22'
+https://drive.google.com/file/d/1mTA53eUjf8boVB4bnptQ4IlBeMZXF_Jv/view?usp=sharing
+20 Робота з об'єктами 23'
+https://drive.google.com/file/d/1XqQkuGJwuAAhVgKn8ZVOEx3MSmz49OjT/view?usp=sharing
+20 Робота з об'єктами (закінчення) 20'
+https://drive.google.com/file/d/1DDjj8z6x0R9gYbekKl8wWyoCZKVnX0A8/view?usp=sharing
+Лекція 10
+30 Системи числення 30'
+https://drive.google.com/file/d/1647LiihvaP7N0Uih6hd1FI2SgtqnEhIU/view?usp=sharing
+31 Дробові та інші числа 27'
+https://drive.google.com/file/d/1uzjBqylNIpYtzpkcUF-B47zh0YvvYtvG/view?usp=sharing
+32 Подання чисел 13'
+https://drive.google.com/file/d/1qabqYcG7HF6ZeqO3BAFoHuL8efxXnAjw/view?usp=share_link
+------------
+Лекція 11
+33 Операції з числами 35'
+https://drive.google.com/file/d/13qLHeBSx48DCaNdzXvw9vAYJet6cCu_W/view?usp=share_link
+34 Ще раз про функції 28'
+https://drive.google.com/file/d/11Lf1oNrFtibLWV2944Maw7e6kY1C49J0/view?usp=share_link
+Лекція 12
+35 Рекурсія 20'
+https://drive.google.com/file/d/1GKjYecrm4B48EGzMfca-HhKeA3-oKKs3/view?usp=sharing
+36 Задача про ханойські вежі 17'
+https://drive.google.com/file/d/1NgPqRrJsyui1ImQkaN3DjCWEH-ds3nfS/view?usp=sharing
